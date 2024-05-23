@@ -1,4 +1,4 @@
-name: 'maestro-test-action'
+name: 'maestro-github-actions'
 description: 'Simple step to run Maestro tests with GitHub Actions'
 author: 'dniHze'
 inputs:
